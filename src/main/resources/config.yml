@@ -1,0 +1,18 @@
+#
+#    _____ _ _   _            ____       _     _
+# / ____(_) | | |          |  _ \     (_)   | |
+# | |  __ _| |_| |_ ___ _ __| |_) |_ __ _  __| | __ _  ___
+# | | |_ | | __| __/ _ \ '__|  _ <| '__| |/ _` |/ _` |/ _ \
+# | |__| | | |_| ||  __/ |  | |_) | |  | | (_| | (_| |  __/
+# \_____|_|\__|\__\___|_|  |____/|_|  |_|\__,_|\__, |\___|
+#                                               __/ |
+#                                              |___/
+#
+# By TheDiamondYT
+#
+# Config info @ https://github.com/TheDiamondYT1/GitterBridge/wiki
+prefix: "§4[§dGitter§4]§7 "
+consolePrefix: "§c[§dGitterBridge§c]§b "
+
+access_token: ""
+room_id: "58333163d73408ce4f379afc" #TDYT/GitterBridge By default

@@ -1,0 +1,6 @@
+name: GitterBridge
+version: "1.0.7"
+api: ["1.0.0"]
+author: TheDiamondYT
+description: GitterBridge Plugin
+main: tk.thediamondyt.gitterbridge.Main
